@@ -1,0 +1,15 @@
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\bin\Debug\net8.0\ErrorOr.exe
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\bin\Debug\net8.0\ErrorOr.deps.json
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\bin\Debug\net8.0\ErrorOr.runtimeconfig.json
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\bin\Debug\net8.0\ErrorOr.dll
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\bin\Debug\net8.0\ErrorOr.pdb
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.AssemblyInfoInputs.cache
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.AssemblyInfo.cs
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.csproj.CoreCompileInputs.cache
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.sourcelink.json
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.dll
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\refint\ErrorOr.dll
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.pdb
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ErrorOr.genruntimeconfig.cache
+D:\OneDrive\System Design\CodeNextSample\ErrorOr\obj\Debug\net8.0\ref\ErrorOr.dll
