@@ -1,0 +1,15 @@
+D:\OneDrive\System Design\CodeNextSample\Event\bin\Debug\net8.0\Event.exe
+D:\OneDrive\System Design\CodeNextSample\Event\bin\Debug\net8.0\Event.deps.json
+D:\OneDrive\System Design\CodeNextSample\Event\bin\Debug\net8.0\Event.runtimeconfig.json
+D:\OneDrive\System Design\CodeNextSample\Event\bin\Debug\net8.0\Event.dll
+D:\OneDrive\System Design\CodeNextSample\Event\bin\Debug\net8.0\Event.pdb
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.AssemblyInfoInputs.cache
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.AssemblyInfo.cs
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.csproj.CoreCompileInputs.cache
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.sourcelink.json
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.dll
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\refint\Event.dll
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.pdb
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\Event.genruntimeconfig.cache
+D:\OneDrive\System Design\CodeNextSample\Event\obj\Debug\net8.0\ref\Event.dll
