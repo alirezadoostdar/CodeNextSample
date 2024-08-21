@@ -8,9 +8,9 @@ namespace Event
 {
     public class EmailService
     {
-        public void Send(string message)
+        public void Send(object sender, MessageEventArg e)
         {
-            Console.WriteLine($"email send this message : {message}");
+            Console.WriteLine($"email send this message : {e.Message}");
         }
     }
 }

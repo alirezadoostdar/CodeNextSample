@@ -4,8 +4,8 @@ Stock stock = new Stock();
 SmsService smsService = new SmsService();
 EmailService emailService = new EmailService();
 
-stock.onChangedPrice += smsService.Send;
-stock.onChangedPrice += emailService.Send;
+stock.ChangedPrice += smsService.Send;
+stock.ChangedPrice += emailService.Send;
 
 while (true)
 {
