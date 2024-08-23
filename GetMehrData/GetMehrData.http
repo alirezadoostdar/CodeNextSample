@@ -1,0 +1,6 @@
+@GetMehrData_HostAddress = http://localhost:5268
+
+GET {{GetMehrData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
