@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorOr", "ErrorOr\ErrorOr.csproj", "{39691384-F0C9-42BB-8246-40B6C72ABA26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErrorOr", "ErrorOr\ErrorOr.csproj", "{39691384-F0C9-42BB-8246-40B6C72ABA26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{B22F5FC1-5264-4973-9D62-72E63A0C8A22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj", "{B22F5FC1-5264-4973-9D62-72E63A0C8A22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMehrData", "GetMehrData\GetMehrData.csproj", "{ED445D6C-7D5C-497D-9BDD-423F8A53DBBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMehrData", "GetMehrData\GetMehrData.csproj", "{ED445D6C-7D5C-497D-9BDD-423F8A53DBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{ED445D6C-7D5C-497D-9BDD-423F8A53DBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED445D6C-7D5C-497D-9BDD-423F8A53DBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED445D6C-7D5C-497D-9BDD-423F8A53DBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
