@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundService", "BackGroundService\BackGroundService.csproj", "{4616B522-5E4C-4AEC-992B-672A9A214FDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Channels", "Channels\Channels.csproj", "{F3D873F9-46FE-4413-9D9B-D5453DF703F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D873F9-46FE-4413-9D9B-D5453DF703F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D873F9-46FE-4413-9D9B-D5453DF703F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D873F9-46FE-4413-9D9B-D5453DF703F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D873F9-46FE-4413-9D9B-D5453DF703F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
