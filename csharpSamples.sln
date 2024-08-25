@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "Event\Event.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetMehrData", "GetMehrData\GetMehrData.csproj", "{ED445D6C-7D5C-497D-9BDD-423F8A53DBBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundService", "BackGroundService\BackGroundService.csproj", "{4616B522-5E4C-4AEC-992B-672A9A214FDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918D59C3-25EC-4417-8D79-BD4A8AAF8AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4616B522-5E4C-4AEC-992B-672A9A214FDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
