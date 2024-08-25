@@ -18,7 +18,7 @@ namespace Channels
                 await foreach (var item in _channel.Reader.ReadAllAsync())
                 {
                     Console.WriteLine($"read item {item}");
-                    Task.Delay(1000).Wait();
+                    Task.Delay(2000).Wait();
                 }
                 //await Task.Delay(1000, stoppingToken);
             }
