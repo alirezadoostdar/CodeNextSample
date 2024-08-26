@@ -1,3 +1,4 @@
+using BenchmarkDotNet.Running;
 using Channels;
 using System.Threading.Channels;
 
@@ -21,13 +22,6 @@ var host = builder.Build();
 
 var channel = host.Services.GetService<Channel<string>>();
 
-//await Task.Run(async () =>
-//{
-//    for (int i = 0; i < 100; i++)
-//    {
-//        await channel.Writer.WriteAsync(i.ToString());
-//        Console.WriteLine($"write item {i}");
-//    }
-//});
 
+//BenchmarkRunner.Run<ChannelsBenchmark>();
 host.Run();
