@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eKgfGbQqojNMR1Hlm533QVG1pPVlbaDg5rr5pDN7q4M=",
+  "Source": "KeyedServiceInjection",
+  "BasePath": "_content/KeyedServiceInjection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
