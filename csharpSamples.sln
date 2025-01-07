@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpNewFeatures", "csharp
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Event_Vb", "Event_Vb\Event_Vb.vbproj", "{75D51AF2-E414-4EF5-8044-CA02FE31FBDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Position Pattern", "Position Pattern\Position Pattern.csproj", "{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{75D51AF2-E414-4EF5-8044-CA02FE31FBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D51AF2-E414-4EF5-8044-CA02FE31FBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D51AF2-E414-4EF5-8044-CA02FE31FBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
