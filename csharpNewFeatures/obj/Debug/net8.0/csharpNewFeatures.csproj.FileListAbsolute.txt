@@ -1,0 +1,15 @@
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\bin\Debug\net8.0\csharpNewFeatures.exe
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\bin\Debug\net8.0\csharpNewFeatures.deps.json
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\bin\Debug\net8.0\csharpNewFeatures.runtimeconfig.json
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\bin\Debug\net8.0\csharpNewFeatures.dll
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\bin\Debug\net8.0\csharpNewFeatures.pdb
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.AssemblyInfoInputs.cache
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.AssemblyInfo.cs
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.csproj.CoreCompileInputs.cache
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.sourcelink.json
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.dll
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\refint\csharpNewFeatures.dll
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.pdb
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\csharpNewFeatures.genruntimeconfig.cache
+D:\OneDrive\System Design\CodeNextSample\csharpNewFeatures\obj\Debug\net8.0\ref\csharpNewFeatures.dll
