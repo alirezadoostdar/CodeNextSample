@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Position Pattern", "Positio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relational Patterns", "Relational Patterns\Relational Patterns.csproj", "{972F9909-6E8B-4F16-B7BC-A94D50A435A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern challange", "Pattern challange\Pattern challange.csproj", "{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
