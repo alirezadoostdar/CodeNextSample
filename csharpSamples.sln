@@ -29,6 +29,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Event_Vb", "Event_Vb\Event_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Position Pattern", "Position Pattern\Position Pattern.csproj", "{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relational Patterns", "Relational Patterns\Relational Patterns.csproj", "{972F9909-6E8B-4F16-B7BC-A94D50A435A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972F9909-6E8B-4F16-B7BC-A94D50A435A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

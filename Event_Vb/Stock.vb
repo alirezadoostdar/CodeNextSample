@@ -1,7 +1,8 @@
 ﻿Public Class Stock
 
-    Public Delegate Sub OnPriceChangedHandler(ByVal message As String)
-    Public Event OnPriceChanged As OnPriceChangedHandler
+    'Public Delegate Sub OnPriceChangedHandler(ByVal message As String)
+    'Public Event OnPriceChanged As OnPriceChangedHandler
+    Public Event OnPriceChanged As Action(Of String)
     Public Property Price As Integer
     Public Sub Update(ByVal newPrice As Integer)
         Price = newPrice
