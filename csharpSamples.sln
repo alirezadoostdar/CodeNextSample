@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relational Patterns", "Rela
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern challange", "Pattern challange\Pattern challange.csproj", "{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{4EF138C3-B49A-410B-9D3F-25104AB73C4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

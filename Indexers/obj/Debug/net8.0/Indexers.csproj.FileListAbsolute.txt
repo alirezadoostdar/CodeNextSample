@@ -1,0 +1,15 @@
+D:\OneDrive\System Design\CodeNextSample\Indexers\bin\Debug\net8.0\Indexers.exe
+D:\OneDrive\System Design\CodeNextSample\Indexers\bin\Debug\net8.0\Indexers.deps.json
+D:\OneDrive\System Design\CodeNextSample\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+D:\OneDrive\System Design\CodeNextSample\Indexers\bin\Debug\net8.0\Indexers.dll
+D:\OneDrive\System Design\CodeNextSample\Indexers\bin\Debug\net8.0\Indexers.pdb
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.sourcelink.json
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.dll
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.pdb
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+D:\OneDrive\System Design\CodeNextSample\Indexers\obj\Debug\net8.0\ref\Indexers.dll
