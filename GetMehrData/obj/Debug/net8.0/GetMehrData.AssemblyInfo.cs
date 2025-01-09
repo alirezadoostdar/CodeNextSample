@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetMehrData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c7d4d256f07a2cc5bc9bae0fa053f7d1fb30d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+426de6847bf12d235c3c8dc524d189c150523183")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetMehrData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetMehrData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

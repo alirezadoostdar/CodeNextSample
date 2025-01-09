@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern challange", "Patter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{4EF138C3-B49A-410B-9D3F-25104AB73C4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equality Testing", "Equality Testing\Equality Testing.csproj", "{1B6EDB0E-13DB-4476-9751-5726085876FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF138C3-B49A-410B-9D3F-25104AB73C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

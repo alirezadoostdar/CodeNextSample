@@ -7,8 +7,8 @@ Module Program
         Dim emailService As New EmailService()
         Dim stock As New Stock
         Dim price As Integer = 0
-        AddHandler stock.OnPriceChanged, AddressOf smsService.Send
-        AddHandler stock.OnPriceChanged, AddressOf emailService.Send
+        AddHandler stock.PriceChanged, AddressOf smsService.Send
+        AddHandler stock.PriceChanged, AddressOf emailService.Send
         Dim rnd As New Random
         While True
             price = rnd.Next(10000, 50000)
