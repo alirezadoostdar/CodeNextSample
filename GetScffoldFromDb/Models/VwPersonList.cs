@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 namespace GetScffoldFromDb.Models;
 
+[Keyless]
 public partial class VwPersonList
 {
+    [Column("FK_AccountSysCode")]
     public int FkAccountSysCode { get; set; }
 
     public int? GroupId1 { get; set; }
@@ -25,8 +30,10 @@ public partial class VwPersonList
 
     public int? VisitorCostAcc { get; set; }
 
+    [Column(TypeName = "money")]
     public decimal? VisitorBaseAmmount { get; set; }
 
+    [Column(TypeName = "money")]
     public decimal? VisitorIncreaseAmmount { get; set; }
 
     public float? VisitorIncreasePer { get; set; }
@@ -39,6 +46,7 @@ public partial class VwPersonList
 
     public int? VisitorGoodGroupCode { get; set; }
 
+    [Column("FK_IDKind")]
     public int? FkIdkind { get; set; }
 
     public bool? OutSidePerson { get; set; }
@@ -49,10 +57,14 @@ public partial class VwPersonList
 
     public string? Cardno { get; set; }
 
+    [Column("CardID1")]
     public string? CardId1 { get; set; }
 
+    [Column("CardID2")]
     public string? CardId2 { get; set; }
 
+    [Column("birthDayDate")]
+    [StringLength(10)]
     public string? BirthDayDate { get; set; }
 
     public string? Pass { get; set; }
