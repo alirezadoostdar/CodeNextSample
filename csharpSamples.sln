@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equality Testing", "Equality Testing\Equality Testing.csproj", "{1B6EDB0E-13DB-4476-9751-5726085876FE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity Framework", "Entity Framework", "{4872DBCF-9252-4E9C-954D-236171C0F7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop", "PizzaShop\PizzaShop.csproj", "{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,9 +115,16 @@ Global
 		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B6EDB0E-13DB-4476-9751-5726085876FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D} = {4872DBCF-9252-4E9C-954D-236171C0F7E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73C29754-5A25-455E-90BC-225A80DDD6F7}
