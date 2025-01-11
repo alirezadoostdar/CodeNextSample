@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Position Pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bd262ea5a1853343931b55e2a149732b5d989d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15e7b94532472f9835904e1093d53aabe7f92f30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Position Pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Position Pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
