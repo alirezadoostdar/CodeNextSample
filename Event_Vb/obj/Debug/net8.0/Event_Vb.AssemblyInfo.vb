@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Event_Vb"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15e7b94532472f9835904e1093d53aabe7f92f30"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89677cc809da1fdd3c06c443ba63a1cad0795e78"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Event_Vb"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Event_Vb"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

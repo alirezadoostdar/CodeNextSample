@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop", "PizzaShop\Pizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetScffoldFromDb", "GetScffoldFromDb\GetScffoldFromDb.csproj", "{DD027FFB-ED4D-4762-B263-8F83C76AD618}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concurruncy", "Concurruncy", "{A5276F67-02F3-46C3-8856-E9240E7DB475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrency.1", "Concurrency.1\Concurrency.1.csproj", "{99392E6B-A543-43AF-ABEF-7230BEBECDD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +129,10 @@ Global
 		{DD027FFB-ED4D-4762-B263-8F83C76AD618}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD027FFB-ED4D-4762-B263-8F83C76AD618}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD027FFB-ED4D-4762-B263-8F83C76AD618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +140,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D} = {4872DBCF-9252-4E9C-954D-236171C0F7E4}
 		{DD027FFB-ED4D-4762-B263-8F83C76AD618} = {4872DBCF-9252-4E9C-954D-236171C0F7E4}
+		{99392E6B-A543-43AF-ABEF-7230BEBECDD8} = {A5276F67-02F3-46C3-8856-E9240E7DB475}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73C29754-5A25-455E-90BC-225A80DDD6F7}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetScffoldFromDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4de08252db63f9654da92172474ee820485b5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89677cc809da1fdd3c06c443ba63a1cad0795e78")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetScffoldFromDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetScffoldFromDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
