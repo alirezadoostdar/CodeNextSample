@@ -21,31 +21,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Options_Pattern", "Options_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrencyAndAsynchrony", "ConcurrencyAndAsynchrony\ConcurrencyAndAsynchrony.csproj", "{6FDBE75A-AC13-42A6-A360-75C644CEFA01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareExample", "MiddlewareExample\MiddlewareExample.csproj", "{C163FE38-B901-4CC9-8C04-D26BA82A8BB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExample", "MiddlewareExample\MiddlewareExample.csproj", "{C163FE38-B901-4CC9-8C04-D26BA82A8BB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpNewFeatures", "csharpNewFeatures\csharpNewFeatures.csproj", "{63B80B20-3DD1-4BBE-AC99-891F79EAE5F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpNewFeatures", "csharpNewFeatures\csharpNewFeatures.csproj", "{63B80B20-3DD1-4BBE-AC99-891F79EAE5F2}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Event_Vb", "Event_Vb\Event_Vb.vbproj", "{75D51AF2-E414-4EF5-8044-CA02FE31FBDA}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Event_Vb", "Event_Vb\Event_Vb.vbproj", "{75D51AF2-E414-4EF5-8044-CA02FE31FBDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Position Pattern", "Position Pattern\Position Pattern.csproj", "{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Position Pattern", "Position Pattern\Position Pattern.csproj", "{BFB392D4-A1FF-4D44-86FA-8D5BD3A4110F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relational Patterns", "Relational Patterns\Relational Patterns.csproj", "{972F9909-6E8B-4F16-B7BC-A94D50A435A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Relational Patterns", "Relational Patterns\Relational Patterns.csproj", "{972F9909-6E8B-4F16-B7BC-A94D50A435A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern challange", "Pattern challange\Pattern challange.csproj", "{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern challange", "Pattern challange\Pattern challange.csproj", "{76C31F9C-6DBD-4F9C-AE9B-A8F56944465B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{4EF138C3-B49A-410B-9D3F-25104AB73C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers", "Indexers\Indexers.csproj", "{4EF138C3-B49A-410B-9D3F-25104AB73C4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equality Testing", "Equality Testing\Equality Testing.csproj", "{1B6EDB0E-13DB-4476-9751-5726085876FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equality Testing", "Equality Testing\Equality Testing.csproj", "{1B6EDB0E-13DB-4476-9751-5726085876FE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity Framework", "Entity Framework", "{4872DBCF-9252-4E9C-954D-236171C0F7E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop", "PizzaShop\PizzaShop.csproj", "{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShop", "PizzaShop\PizzaShop.csproj", "{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetScffoldFromDb", "GetScffoldFromDb\GetScffoldFromDb.csproj", "{DD027FFB-ED4D-4762-B263-8F83C76AD618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetScffoldFromDb", "GetScffoldFromDb\GetScffoldFromDb.csproj", "{DD027FFB-ED4D-4762-B263-8F83C76AD618}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concurruncy", "Concurruncy", "{A5276F67-02F3-46C3-8856-E9240E7DB475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrency.1", "Concurrency.1\Concurrency.1.csproj", "{99392E6B-A543-43AF-ABEF-7230BEBECDD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concurrency.1", "Concurrency.1\Concurrency.1.csproj", "{99392E6B-A543-43AF-ABEF-7230BEBECDD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interview Question", "Interview Question", "{7AF95AB2-12A3-4059-9FD7-B8F8DAD8FF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview1", "Interview1\Interview1.csproj", "{A69F5422-758C-4413-89A0-70D43EA23B1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +137,10 @@ Global
 		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99392E6B-A543-43AF-ABEF-7230BEBECDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69F5422-758C-4413-89A0-70D43EA23B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69F5422-758C-4413-89A0-70D43EA23B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69F5422-758C-4413-89A0-70D43EA23B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69F5422-758C-4413-89A0-70D43EA23B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +149,7 @@ Global
 		{0A7AE638-6F4C-4D03-B9D5-C6384F31A79D} = {4872DBCF-9252-4E9C-954D-236171C0F7E4}
 		{DD027FFB-ED4D-4762-B263-8F83C76AD618} = {4872DBCF-9252-4E9C-954D-236171C0F7E4}
 		{99392E6B-A543-43AF-ABEF-7230BEBECDD8} = {A5276F67-02F3-46C3-8856-E9240E7DB475}
+		{A69F5422-758C-4413-89A0-70D43EA23B1B} = {7AF95AB2-12A3-4059-9FD7-B8F8DAD8FF7B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73C29754-5A25-455E-90BC-225A80DDD6F7}

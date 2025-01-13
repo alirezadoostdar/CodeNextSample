@@ -1,0 +1,15 @@
+D:\OneDrive\System Design\CodeNextSample\Interview1\bin\Debug\net8.0\Interview1.exe
+D:\OneDrive\System Design\CodeNextSample\Interview1\bin\Debug\net8.0\Interview1.deps.json
+D:\OneDrive\System Design\CodeNextSample\Interview1\bin\Debug\net8.0\Interview1.runtimeconfig.json
+D:\OneDrive\System Design\CodeNextSample\Interview1\bin\Debug\net8.0\Interview1.dll
+D:\OneDrive\System Design\CodeNextSample\Interview1\bin\Debug\net8.0\Interview1.pdb
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.AssemblyInfoInputs.cache
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.AssemblyInfo.cs
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.csproj.CoreCompileInputs.cache
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.sourcelink.json
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.dll
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\refint\Interview1.dll
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.pdb
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\Interview1.genruntimeconfig.cache
+D:\OneDrive\System Design\CodeNextSample\Interview1\obj\Debug\net8.0\ref\Interview1.dll
