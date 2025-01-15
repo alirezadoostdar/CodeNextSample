@@ -8,16 +8,19 @@
 
         void SaveFile()
         {
-            Monitor.Enter(_lock);
-            try
+            lock (_lock)
             {
                 File.AppendAllText(path, "example Text");
             }
-            finally
-            {
-                Monitor.Exit(_lock);
-            }
-    
+            //Monitor.Enter(_lock);
+            //try
+            //{
+            //    
+            //}
+            //finally
+            //{
+            //    Monitor.Exit(_lock);
+            //}
         }
     }
 }
