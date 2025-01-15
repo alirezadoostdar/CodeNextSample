@@ -49,11 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concurrency.1", "Concurrenc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interview Question", "Interview Question", "{7AF95AB2-12A3-4059-9FD7-B8F8DAD8FF7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview1", "Interview1\Interview1.csproj", "{A69F5422-758C-4413-89A0-70D43EA23B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interview1", "Interview1\Interview1.csproj", "{A69F5422-758C-4413-89A0-70D43EA23B1B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design Pattern", "Design Pattern", "{1A0F8026-2032-4B95-828C-D2BEFB147096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{723339E5-D72F-4CF1-91D2-4D5BEE750AFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{723339E5-D72F-4CF1-91D2-4D5BEE750AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrency4", "Concurruncy2\Concurrency4.csproj", "{C0B4B2E1-1D31-4D97-B9C8-C3F704186602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +151,10 @@ Global
 		{723339E5-D72F-4CF1-91D2-4D5BEE750AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{723339E5-D72F-4CF1-91D2-4D5BEE750AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{723339E5-D72F-4CF1-91D2-4D5BEE750AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B4B2E1-1D31-4D97-B9C8-C3F704186602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B4B2E1-1D31-4D97-B9C8-C3F704186602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B4B2E1-1D31-4D97-B9C8-C3F704186602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B4B2E1-1D31-4D97-B9C8-C3F704186602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +165,7 @@ Global
 		{99392E6B-A543-43AF-ABEF-7230BEBECDD8} = {A5276F67-02F3-46C3-8856-E9240E7DB475}
 		{A69F5422-758C-4413-89A0-70D43EA23B1B} = {7AF95AB2-12A3-4059-9FD7-B8F8DAD8FF7B}
 		{723339E5-D72F-4CF1-91D2-4D5BEE750AFB} = {1A0F8026-2032-4B95-828C-D2BEFB147096}
+		{C0B4B2E1-1D31-4D97-B9C8-C3F704186602} = {A5276F67-02F3-46C3-8856-E9240E7DB475}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73C29754-5A25-455E-90BC-225A80DDD6F7}
