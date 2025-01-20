@@ -1,4 +1,4 @@
-﻿
-using Interview1;
+﻿using Interview1;
 
-Console.WriteLine(Find.FindFirstNonRepeatingChar("mohamad"));
+Q2 q2 = new Q2();
+Console.WriteLine(q2.IsPalindrome("Al,@a"));
