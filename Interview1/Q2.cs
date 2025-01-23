@@ -18,8 +18,19 @@ namespace Interview1
         public bool IsPalindrome(string str)
         {
             str = RemoveNonAlphanumeric(str).ToLower();
-            string revers =ArrayToString(str.Reverse().ToArray());
+            string revers = new string(str.Reverse().ToArray());
             return (str == revers);
+
+            //int left = 0, right = str.Length - 1;
+
+            //while (left < right)
+            //{
+            //    if (str[left] != str[right])
+            //        return false;
+            //    left++;
+            //    right--;
+            //}
+            //return true;
         }
 
         public string RemoveNonAlphanumeric(string str)
@@ -28,14 +39,5 @@ namespace Interview1
             return Regex.Replace(str, "[^a-zA-Z0-9]", "");
         }
 
-        public string ArrayToString(char[] chars)
-        {
-            StringBuilder sb = new StringBuilder();
-            foreach (char c in chars)
-            {
-                sb.Append(c);
-            }
-            return sb.ToString();
-        }
     }
 }

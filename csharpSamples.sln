@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concurrency4", "Concurruncy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concurrency5", "Concurrency5\Concurrency5.csproj", "{66B9AC2B-5726-4D8A-BE74-85F8F0825A3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cancelation Token", "Cancelation Token\Cancelation Token.csproj", "{1C7FA830-76EB-4C23-9830-46EA08777916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cancelation Token", "Cancelation Token\Cancelation Token.csproj", "{1C7FA830-76EB-4C23-9830-46EA08777916}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackendMasterClass", "BackendMasterClass", "{6C42C6F4-4A1A-4944-9755-478A7511FEF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
