@@ -1,9 +1,15 @@
 ﻿using Interview1;
 
+Q7 q7 = new Q7();
+Console.WriteLine(q7.LongestPalindrome("abaabad"));
 
-Q5 q5 = new Q5();
-Console.WriteLine(q5.IsAnagrams("listen", "silent"));
-Console.WriteLine(q5.IsAnagrams("aab", "bba"));
+//Q6 q6 = new Q6();
+//Console.WriteLine(q6.GetMissingNumber(new int[] {1,2,4,5}));
+//Console.WriteLine(q6.GetMissingNumber(new int[] { 3, 7, 1, 2, 8, 4, 5 }));
+
+//Q5 q5 = new Q5();
+//Console.WriteLine(q5.IsAnagrams("listen", "silent"));
+//Console.WriteLine(q5.IsAnagrams("aab", "bba"));
 
 //int[] data = { 3, 2, 1, 5, 6, 4 };
 //int k = 2;
