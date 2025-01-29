@@ -1,7 +1,11 @@
 ﻿using Interview1;
 
-Q7 q7 = new Q7();
-Console.WriteLine(q7.LongestPalindrome("abaabad"));
+Q8 q8 = new Q8();
+Console.WriteLine(q8.GetMissingPositiveNumber([3, 4, -1, 1]));
+Console.WriteLine(q8.GetMissingPositiveNumber([1, 2, 0]));
+
+//Q7 q7 = new Q7();
+//Console.WriteLine(q7.LongestPalindrome("abaabad"));
 
 //Q6 q6 = new Q6();
 //Console.WriteLine(q6.GetMissingNumber(new int[] {1,2,4,5}));
