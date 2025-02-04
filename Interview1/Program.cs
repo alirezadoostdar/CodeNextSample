@@ -1,13 +1,16 @@
 ﻿using Interview1;
 
-Q9 q9 = new Q9();
-int[] data = { 2, 7, 4, -1, 5, 3, 1 };
-int target = 6;
-var pairs = q9.GetPairSumTarget(data, target);
-foreach (var pair in pairs)
-{
-	Console.WriteLine($"({pair.Item1}, {pair.Item2})");
-}
+Q10 q10 = new Q10();
+Console.WriteLine(q10.GetFrequentChar("chaaracter"));
+
+//Q9 q9 = new Q9();
+//int[] data = { 2, 7, 4, -1, 5, 3, 1 };
+//int target = 6;
+//var pairs = q9.GetPairSumTarget(data, target);
+//foreach (var pair in pairs)
+//{
+//	Console.WriteLine($"({pair.Item1}, {pair.Item2})");
+//}
 
 //Q8 q8 = new Q8();
 //Console.WriteLine(q8.GetMissingPositiveNumber([3, 4, -1, 1]));
