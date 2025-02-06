@@ -1,7 +1,11 @@
 ﻿using Interview1;
+using System.Text;
 
-Q10 q10 = new Q10();
-Console.WriteLine(q10.GetFrequentChar("chaaracter"));
+Q11 q11 = new Q11();
+Console.WriteLine(string.Join(',', q11.Rotate( new int[] {1,2,3,4,5},2)));
+
+//q10 q10 = new q10();
+//console.writeline(q10.getfrequentchar("chaaracter"));
 
 //Q9 q9 = new Q9();
 //int[] data = { 2, 7, 4, -1, 5, 3, 1 };
